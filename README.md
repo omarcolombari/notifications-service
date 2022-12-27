@@ -36,7 +36,7 @@ Inicie o servidor
 Rode as migrations
 
 ```bash
-yarn prisma migrate dev
+  npx prisma migrate dev
 ```
 
 ## Rodando os testes
